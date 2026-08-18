@@ -15,7 +15,7 @@ touch M17Hosts.txt <br>
 echo -e "M17-POL\t51.38.132.8\t17000" > M17Hosts.txt <br>
 exit <br>
 sudo pistar-update <br>**
-<br> Nasz dodatkowy wpis będzie zawsze dodawany po update na końcu pliku. <br>
+<br> Nasz dodatkowy wpis będzie zawsze dodawany automatycznie po update na końcu pliku /usr/local/etc/M17Hosts.txt <br>
 Zaloguj się do _Pi-Star Dashboard -> Configuration_ włącz  **M17 mode** i przycisk _Apply Changes_.<br>
 ![m17 mode](m17_mode.png)<br>
 Następnie w **M17 Configuration** wybierz z listy **M17 Startup Host: M17-POL,module D.**  zapisz zamian:  Apply Changes<br>
