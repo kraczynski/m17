@@ -18,6 +18,7 @@ sudo pistar-update <br>**
 Zaloguj się do _Pi-Star Dashboard -> Configuration_ włącz  **M17 mode** i przycisk _Apply Changes_.<br>
 ![m17 mode](m17_mode.png)<br>
 Następnie w **M17 Configuration** wybierz z listy **M17 Startup Host: M17-POL,module D.**  zapisz zamian:  Apply Changes<br>
+![m17 mode](m17_pol.png)
 <br>
 Jeśli chcesz zmienić suffix z R np. na H zmień wpis Suffix=R w pliku /etc/m17gateway <br>
 
