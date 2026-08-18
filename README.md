@@ -1,4 +1,4 @@
-# m17 - konfiguracja Pi-Star
+# m17 - konfiguracja Pi-Star 4.2.6 
 
 ![m17 mode](m17_dash.png)
 
