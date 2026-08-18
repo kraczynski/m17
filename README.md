@@ -1,6 +1,6 @@
 # m17 - konfiguracja Pi-Star
 
-UWAGA! Zanim przystąpisz do zmian w Pi-Star zrób aktualną kopię: _Pi-Star Dashboard -> Configuration -> Backup/Restore -> Download Configuration._<br>
+UWAGA! Zanim przystąpisz do zmian w Pi-Star zrób aktualną kopię:<br> _Pi-Star Dashboard -> Configuration -> Backup/Restore -> Download Configuration._<br>
 
 W konfiguracji [Pi-Star](https://www.pistar.uk/) lista Relfektorów M17 pobieranych automatycznie znajduje się w następującym pliku: <br>
 **/usr/local/etc/M17Hosts.txt** <br><br>
