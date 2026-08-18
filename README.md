@@ -13,8 +13,8 @@ Wykonaj następujące polecenia po zalogowaniu się do SSH Pi-Star: <br><br>
 Logowanie do Pi-Star SSH:
 Wejdź przez przeglądarkę na adres HotSpot Pi-Star.<br> 
 -> Configuration -> Expert -> SSH Access <br>
-login - pi-star
-password: raspberry
+login - pi-star<br>
+password: raspberry <br><br>
 **rpi-rw <br>
 sudo -i <br>
 touch M17Hosts.txt <br>
