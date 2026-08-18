@@ -16,7 +16,7 @@ echo -e "M17-POL\t51.38.132.8\t17000" > M17Hosts.txt <br>
 exit <br>
 sudo pistar-update <br>**
 <br> Nasz dodatkowy wpis będzie zawsze dodawany automatycznie po update na końcu pliku /usr/local/etc/M17Hosts.txt <br>
-Możesz to sprawdzić komendą: _grep -r 'M17-POL'  /usr/local/etc/M17Hosts.txt_<br><br>
+Możesz to sprawdzić komendą: **grep -r 'M17-POL'  /usr/local/etc/M17Hosts.txt**<br><br>
 Konfiguracja Pi-Star 
 Zaloguj się do _Pi-Star Dashboard -> Configuration_ włącz  **M17 mode** i przycisk _Apply Changes_.<br>
 ![m17 mode](m17_mode.png)<br>
