@@ -1,6 +1,6 @@
 # m17 - konfiguracja Pi-Star
 
-W konfiguracji P-Star [Pi-Star](https://www.pistar.uk/) lista Relfektorów M17 pobieranych automatycznie znajduje się w następującym pliku: <br>
+W konfiguracji [Pi-Star](https://www.pistar.uk/) lista Relfektorów M17 pobieranych automatycznie znajduje się w następującym pliku: <br>
 **/usr/local/etc/M17Hosts.txt** <br><br>
 W celu dodania własnego reflektora np. M17-POL należy utworzyć plik: **/root/M17Hosts.txt** i dokonać wpisu "M17-POL  51.38.132.8  17000"<br><br>
 Wykonaj następujące polecenia po zalogowaniu się do SSH Pi-star: <br><br>
@@ -16,3 +16,6 @@ Jeśli chcesz zmienić suffix z R np. na H zmień wpis Suffix=R w pliku /etc/m17
 
 **rpi-rw <br>
 sudo nano /etc/m17gateway <br>**
+
+Pamiętaj! Z tego samego zewnętrznego adresu IP co posiada HotSpot z Pi-Starem nie połączysz się z aplikacją QSO One.<br>
+Połącz się z innego adresu IP. 
