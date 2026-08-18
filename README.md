@@ -28,6 +28,6 @@ Jeśli chcesz zmienić suffix z R np. na H zmień wpis Suffix=R w pliku /etc/m17
 **rpi-rw <br>
 sudo nano /etc/m17gateway <br>**
 
-Pamiętaj! Z tego samego zewnętrznego adresu IP co posiada HotSpot z Pi-Starem nie połączysz się z aplikacją QSO One.<br>
+Pamiętaj! Z tego samego zewnętrznego adresu IP co posiada HotSpot z Pi-Starem nie połączysz się z reflektorem M17_POL przez aplikację.<br>
 Połącz się z innego adresu IP!<br><br>
 _Vy 73! de SP1RAC, Kazimierz - Koszalin 18.08.2026_
