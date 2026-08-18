@@ -3,7 +3,8 @@
 ![m17 mode](m17_dash.png)
 
 **UWAGA! Zanim przystąpisz do zmian w Pi-Star zrób aktualną kopię:<br>
-Wejdź przez przeglądarkę na adres: http://pi-star/ lub IP<br> 
+Wejdź przez przeglądarkę na adres: http://pi-star/ lub lokalny adres IP HotSpota<br> 
+HostSpot oraz komputer na ktorym dokonujesz wpisów musi być w tej samem sieci w tej samej puli adresowej<br>
 _Pi-Star Dashboard -> Configuration -> Backup/Restore -> Download Configuration._<br>**
 Informacje wstępne:<br>
 W konfiguracji [Pi-Star](https://www.pistar.uk/) lista Relfektorów M17 pobieranych automatycznie znajduje się w następującym pliku: <br>
