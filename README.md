@@ -9,12 +9,12 @@ Informacje wstępne:<br>
 W konfiguracji [Pi-Star](https://www.pistar.uk/) lista Relfektorów M17 pobieranych automatycznie znajduje się w następującym pliku: <br>
 **/usr/local/etc/M17Hosts.txt** <br>
 W celu dodania własnego reflektora np. M17-POL należy utworzyć plik: **/root/M17Hosts.txt** i dokonać wpisu:<br> "M17-POL  51.38.132.8  17000"<br><br>
-Wykonaj następujące polecenia po zalogowaniu się do SSH Pi-Star: <br><br>
 Logowanie do Pi-Star SSH:
 Wejdź przez przeglądarkę na adres HotSpot Pi-Star.<br> 
 -> Configuration -> Expert -> SSH Access <br>
-login - pi-star<br>
+login: pi-star<br>
 password: raspberry <br><br>
+Wykonaj następujące polecenia po zalogowaniu się do SSH Pi-Star: <br>
 **rpi-rw <br>
 sudo -i <br>
 touch M17Hosts.txt <br>
