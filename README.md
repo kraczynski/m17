@@ -31,6 +31,7 @@ Następnie w **M17 Configuration** wybierz z listy **M17 Startup Host: M17-POL,m
 ![m17 mode](m17_pol.png)
 <br>
 Jeśli chcesz zmienić suffix z R np. na H zmień wpis Suffix=R w pliku /etc/m17gateway <br>
+R-Repeaters, H-Hotspots
 
 **rpi-rw <br>
 sudo -i <br>
