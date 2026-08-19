@@ -36,11 +36,10 @@ R-Repeaters, H-Hotspots
 **rpi-rw <br>
 sudo -i <br>
 nano /etc/m17gateway <br>**
-
-Po zamianie CTRL+X -> **Y**es -> Enter<br>
-exit<br>
-exit<br>
-Następnie należy przeprowadzić reboot hotspota -> Dashboard -> Admin -> Power -> Reboot<br>
+Po zamianie w wierszu Suffix=R na Suffix=H wciskamy przycisk **CTRL** razem z przyciskiem **X** -> następnie zapisujemy bufor literą **Y**es -> i wciskamy **Enter** by zapisać zmiany w pliku /etc/m17gateway<br>
+**exit<br>
+exit<br>**
+Następnie należy przeprowadzić reboot hotspota _-> Dashboard -> Admin -> Power -> Reboot_<br><br>
 Pamiętaj! Z tego samego zewnętrznego adresu IP co posiada HotSpot z Pi-Starem nie połączysz się z reflektorem M17_POL przez aplikację.<br>
 Połącz się z innego adresu IP!<br><br>
 _Vy 73! de SP1RAC, Kazimierz - Koszalin 18.08.2026_
