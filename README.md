@@ -1,6 +1,7 @@
 # m17 - konfiguracja Pi-Star 4.2.6 
 
 ![m17 mode](m17_dash.png)
+![m17 mode](m17_dash1.png)
 
 **UWAGA! Zanim przystąpisz do zmian w Pi-Star zrób aktualną kopię:<br>
 Wejdź przez przeglądarkę na adres: http://pi-star/ lub lokalny adres IP HotSpota<br> 
