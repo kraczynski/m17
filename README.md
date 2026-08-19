@@ -32,10 +32,11 @@ Następnie w **M17 Configuration** wybierz z listy **M17 Startup Host: M17-POL,m
 <br>
 Jeśli chcesz zmienić suffix z R np. na H zmień wpis Suffix=R w pliku /etc/m17gateway <br>
 R-Repeaters, H-Hotspots
-
 **rpi-rw <br>
 sudo -i <br>
 nano /etc/m17gateway <br>**
+![m17 mode](ssh.png)<br>
+
 Po zamianie w wierszu Suffix=R na Suffix=H wciskamy przycisk **CTRL** razem z przyciskiem **X** -> następnie zapisujemy bufor literą **Y**es -> i wciskamy **Enter** by zapisać zmiany w pliku /etc/m17gateway<br>
 **exit<br>
 exit<br>**
