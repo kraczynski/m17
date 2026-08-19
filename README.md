@@ -33,7 +33,10 @@ Następnie w **M17 Configuration** wybierz z listy **M17 Startup Host: M17-POL,m
 Jeśli chcesz zmienić suffix z R np. na H zmień wpis Suffix=R w pliku /etc/m17gateway <br>
 
 **rpi-rw <br>
-sudo nano /etc/m17gateway <br>**
+sudo -i <br>
+nano /etc/m17gateway <br>**
+
+Po zamianie CTRL+X -> **Y**es -> Enter<br>
 
 Pamiętaj! Z tego samego zewnętrznego adresu IP co posiada HotSpot z Pi-Starem nie połączysz się z reflektorem M17_POL przez aplikację.<br>
 Połącz się z innego adresu IP!<br><br>
