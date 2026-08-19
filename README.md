@@ -38,7 +38,9 @@ sudo -i <br>
 nano /etc/m17gateway <br>**
 
 Po zamianie CTRL+X -> **Y**es -> Enter<br>
-
+exit<br>
+exit<br>
+Następnie należy przeprowadzić reboot hotspota -> Dashboard -> Admin -> Power -> Reboot<br>
 Pamiętaj! Z tego samego zewnętrznego adresu IP co posiada HotSpot z Pi-Starem nie połączysz się z reflektorem M17_POL przez aplikację.<br>
 Połącz się z innego adresu IP!<br><br>
 _Vy 73! de SP1RAC, Kazimierz - Koszalin 18.08.2026_
