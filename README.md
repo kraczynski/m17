@@ -45,4 +45,6 @@ exit<br>**
 Następnie należy przeprowadzić reboot hotspota _-> Dashboard -> Admin -> Power -> Reboot_<br><br>
 Pamiętaj! Z tego samego zewnętrznego adresu IP co posiada HotSpot z Pi-Starem nie połączysz się z reflektorem M17_POL przez aplikację.<br>
 Połącz się z innego adresu IP!<br><br>
-_Vy 73! de SP1RAC, Kazimierz - Koszalin 18.08.2026_
+Jestem już po pierwszych próbach transmisji M17 RF - mały krok do przodu :)
+![m17 mode](m17_rf.png)<br>
+_Vy 73! de SP1RAC, Kazimierz - Koszalin
