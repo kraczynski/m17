@@ -1,9 +1,10 @@
-# m17 - konfiguracja Pi-Star 4.2.6 
+# M17 - konfiguracja Pi-Star 4.2.6 
 Dashboard reflektor M17-POL: https://m17.hblink.network/<br>
 Module list M17:POL: https://m17.hblink.network/index.php?show=modules<br>
 
 ![m17 mode](m17_dash.png)
 ![m17 mode](m17_dash1.png)
+W ostatnim czasie wzrosło zainteresowanie cyfrowym trybem modulacji radiowej **M17** opracowanej przez kolegę Wojciecha Kaczmarskiego SP5WWP. W celu połączenia się polskim reflektorem M17-POL przygotowałem następującą instrukcję.
 
 **UWAGA! Zanim przystąpisz do zmian w Pi-Star zrób aktualną kopię:<br>
 Wejdź przez przeglądarkę na adres: http://pi-star/ lub lokalny adres IP HotSpota<br> 
