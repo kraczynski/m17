@@ -1,6 +1,6 @@
 # M17
-Dashboard reflektor M17-M17: https://m17.openquad.net/
-Dashboard reflektor M17-POL: https://m17.hblink.network/<br>
+Dashboard reflektor M17-M17: https://m17.openquad.net<br>
+Dashboard reflektor M17-POL: https://m17.hblink.network<br>
 Module list M17-POL: https://m17.hblink.network/index.php?show=modules<br><br>
 ![m17 mode](m17_dash.png)
 ![m17 mode](m17_dash1.png)<br>
