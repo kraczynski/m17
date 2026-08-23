@@ -4,7 +4,7 @@ Dashboard reflektor M17-POL: https://m17.hblink.network<br>
 Module list M17-POL: https://m17.hblink.network/index.php?show=modules<br><br>
 ![m17 mode](m17_dash.png)
 ![m17 mode](m17_dash1.png)<br>
-W ostatnim czasie wzrosło zainteresowanie cyfrowym trybem modulacji radiowej **M17** opracowanej przez kolegę Wojciecha Kaczmarskiego SP5WWP.<br>
+W ostatnim czasie wzrosło zainteresowanie cyfrowym trybem modulacji radiowej **M17** opracowanej przez kolegę Wojciecha Kaczmarskiego SP5WWP.
 Więcej o projekcie M17: https://m17project.org <br>W celu połączenia się polskim reflektorem M17-POL przygotowałem następującą instrukcję.<br>
 ## Połączenie z aplikacji DroidStar:<br>
 Dodaj wpis w zakładce Hosts: **M17 M17-POL m17.hblink.network 17000**<br>
