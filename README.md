@@ -1,4 +1,5 @@
 # m17 - konfiguracja Pi-Star 4.2.6 
+Dashboard reflektor M17-POL: https://m17.hblink.network/
 
 ![m17 mode](m17_dash.png)
 ![m17 mode](m17_dash1.png)
