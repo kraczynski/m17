@@ -1,11 +1,14 @@
-# M17 - konfiguracja Pi-Star 4.2.6 
+# M17 - 
 Dashboard reflektor M17-POL: https://m17.hblink.network/<br>
 Module list M17:POL: https://m17.hblink.network/index.php?show=modules<br>
 
 ![m17 mode](m17_dash.png)
 ![m17 mode](m17_dash1.png)<br>
-W ostatnim czasie wzrosło zainteresowanie cyfrowym trybem modulacji radiowej **M17** opracowanej przez kolegę Wojciecha Kaczmarskiego SP5WWP. W celu połączenia się polskim reflektorem M17-POL przygotowałem następującą instrukcję.
-
+W ostatnim czasie wzrosło zainteresowanie cyfrowym trybem modulacji radiowej **M17** opracowanej przez kolegę Wojciecha Kaczmarskiego SP5WWP. W celu połączenia się polskim reflektorem M17-POL przygotowałem następującą instrukcję.<br>
+## Połączenie z aplikacji DroidStar:<br>
+Dodaj wpis w zakładce Hosts: **M17 M17-POL m17.hblink.network 17000**<br>
+W zakładce Settings zaktualizuj listę Update hosts. Wyłącz, włącz aplikację.<br>
+## HotSpot z Pi-Star 4.2.6 
 **UWAGA! Zanim przystąpisz do zmian w Pi-Star zrób aktualną kopię:<br>
 Wejdź przez przeglądarkę na adres: http://pi-star/ lub lokalny adres IP HotSpota<br> 
 HostSpot oraz komputer na którym dokonujesz wpisów musi być w tej samem sieci w tej samej puli adresowej<br>
