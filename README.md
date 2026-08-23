@@ -1,6 +1,6 @@
 # M17
 Dashboard reflektor M17-POL: https://m17.hblink.network/<br>
-Module list M17:POL: https://m17.hblink.network/index.php?show=modules<br><br>
+Module list M17-POL: https://m17.hblink.network/index.php?show=modules<br><br>
 ![m17 mode](m17_dash.png)
 ![m17 mode](m17_dash1.png)<br>
 W ostatnim czasie wzrosło zainteresowanie cyfrowym trybem modulacji radiowej **M17** opracowanej przez kolegę Wojciecha Kaczmarskiego SP5WWP. W celu połączenia się polskim reflektorem M17-POL przygotowałem następującą instrukcję.<br>
